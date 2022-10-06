@@ -1,0 +1,13 @@
+Package: CopulaGraphic
+Title: Copula Graphic Estimator of Survival Function with Dependent Censoring
+Version: 0.0.0.9000
+Authors@R: 
+    person("Zhan", "Gao", , "zhangao@usc.edu", role = c("aut", "cre"))
+Description: Accompany package for Jo et al (2022) Copula Graphic Estimation of Survival Function with Dependent Censoring and its Application to an Analysis of Pancreatic Cancer Clinical Trial
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
