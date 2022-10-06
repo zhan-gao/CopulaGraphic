@@ -11,7 +11,7 @@ devtools::install_github("zhan-gao/CopulaGraphic")
 
 ```R
 library(CopulaGraphic)
-data(tau, d, rho)
+data(tau, d, rho) # simulated data
 rw_out <- rw(
     tau,
     d,
@@ -31,7 +31,6 @@ print(rw_out$quant_time)
 
 ```
 [1] 845.8924 366.0999 102.8447
-
 ```
 
 ```R
