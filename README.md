@@ -1,5 +1,5 @@
 # CopulaGraphic
-A package for "*Copula Graphic Estimation of Survival Function with Dependent Censoring and its Application to an Analysis of Pancreatic Cancer Clinical Trial*" by Jung Hyun Jo, Zhan Gao, Inkyung Jung, Si Young Song, Geert Ridder and Hyungsik Roger Moon. 
+A package for Jo, J. H., Gao, Z., Jung, I., Song, S. Y., Ridder, G., & Moon, H. R. (2023). [Copula graphic estimation of the survival function with dependent censoring and its application to analysis of pancreatic cancer clinical trial](https://journals.sagepub.com/doi/10.1177/09622802231158812). Statistical Methods in Medical Research, 32(5), 944-962.
 
 ### Installation
 
